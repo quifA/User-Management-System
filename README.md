@@ -15,9 +15,9 @@ Simple PHP/MySQL web app to:
 
 ## Project Structure
 INFO/
-├─ db.php
-├─ index.php
-├─ insert.php
-├─ toggle.php
-├─ delete.php
-└─ README.md
+db.php
+index.php
+insert.php
+toggle.php
+delete.php
+ README.md
