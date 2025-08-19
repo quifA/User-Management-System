@@ -1,4 +1,5 @@
-##User Management System
+# User Management System
+
 ## Overview
 Simple PHP/MySQL web app to:
 - Add users (name + age)
